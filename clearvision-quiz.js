@@ -2,8 +2,8 @@
   const questions = [
     { title: 'How old are you?', answers: ['Under 18', '18–45', 'Over 45'] },
     { title: 'Has your vision been stable over the past year?', answers: ['Yes', 'No', "I don't know"] },
-    { title: 'How much nearsightedness do you have, if any?', answers: ['Up to −3 diopters', '−3 to −6 diopters', 'More than −6 diopters', "I don't have nearsightedness"] },
-    { title: 'How much farsightedness do you have, if any?', answers: ['Up to +3 diopters', 'More than +3 diopters', "I don't have farsightedness"] },
+    { title: 'What is your level of nearsightedness, if any?', answers: ['Up to −3 diopters', '−3 to −6 diopters', 'More than −6 diopters', "I don't have nearsightedness"] },
+    { title: 'What is your level of farsightedness, if any?', answers: ['Up to +3 diopters', 'More than +3 diopters', "I don't have farsightedness"] },
     { title: 'Do you have astigmatism? If so, how much?', answers: ['Up to 4 diopters', 'More than 4 diopters', "I don't have astigmatism"] },
     { title: 'Do you have a condition that could affect your vision, such as diabetes, high blood pressure, or a diagnosed retinal condition?', answers: ['Yes', 'No', "I don't know"] }
   ];
